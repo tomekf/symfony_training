@@ -22,6 +22,7 @@ class Post
 //master change
 //master change2
 //master change3
+//master change4
 const NUMBER_OF_ITEMS = 10;
 
     private $id;
