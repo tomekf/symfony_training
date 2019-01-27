@@ -23,5 +23,6 @@ class Comment
 //before rebase5
 //before rebase6
 //normal commit
+//normal commit2
 
 }
