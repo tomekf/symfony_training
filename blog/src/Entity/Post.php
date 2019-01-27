@@ -13,7 +13,9 @@ use Doctrine\Common\Collections\ArrayCollection;
 
 class Post
 {
-    const NUMBER_OF_ITEMS = 10;
+    
+//test
+const NUMBER_OF_ITEMS = 10;
 
     private $id;
 
